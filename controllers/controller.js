@@ -30,6 +30,7 @@ export const productController = {
       .catch((error) => console.error(error))
 
   },
+  
   getProductById(request, response) {
     ProductModel
       .findById(request.params.id)

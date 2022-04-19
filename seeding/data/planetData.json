@@ -8,7 +8,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 1
+  "rating": 1,
+  "inventory": 2
 }, 
 {
   "name": "Vormir",
@@ -19,7 +20,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 4.5
+  "rating": 4.5,
+  "inventory": 1
 }, 
 {
   "name": "Nidavalir",
@@ -30,7 +32,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 5
+  "rating": 5,
+  "inventory": 1
 }, 
 {
   "name": "Asgard",
@@ -41,7 +44,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 2
+  "rating": 2,
+  "inventory": 2
 }, 
 {
   "name": "Sakaar",
@@ -52,7 +56,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 4
+  "rating": 4,
+  "inventory": 1
 },
 {
   "name": "Nowhere",
@@ -63,7 +68,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 3.5
+  "rating": 3.5,
+  "inventory": 1
 },
 {
   "name": "Xandar",
@@ -74,7 +80,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 3.5
+  "rating": 3.5,
+  "inventory": 3
 },
 {
   "name": "Ego",
@@ -85,7 +92,8 @@
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 1.5
+  "rating": 1.5,
+  "inventory": 1
 },
 {
   "name": "Ligma",
@@ -96,6 +104,7 @@
   "description": "ligma globesszz",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 5
+  "rating": 5,
+  "inventory": 1
 }
 ]
