@@ -1,3 +1,14 @@
+[{
+  "name": "Earth",
+  "image": "https://i.imgur.com/OyKDN9J.png",
+  "category": "real",
+  "warrenty": false,
+  "price": 100000,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 1
+}, 
 {
   "name": "Vormir",
   "image": "https://i.imgur.com/OyKDN9J.png",
@@ -6,7 +17,40 @@
   "price": 100000,
   "description": "this is a planet",
   "galaxy": "kag system",
-  "onSale": true
+  "onSale": true,
+  "rating": 4.5
+}, 
+{
+  "name": "Nidavalir",
+  "image": "https://i.imgur.com/OyKDN9J.png",
+  "category": "fictional",
+  "warrenty": false,
+  "price": 100000,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 5
+}, 
+{
+  "name": "Asgard",
+  "image": "https://i.imgur.com/OyKDN9J.png",
+  "category": "fictional",
+  "warrenty": false,
+  "price": 100000,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 2
+}, 
+{
+  "name": "Saka'ar",
+  "image": "https://i.imgur.com/OyKDN9J.png",
+  "category": "fictional",
+  "warrenty": false,
+  "price": 100000,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 5
 }
-
-
+]

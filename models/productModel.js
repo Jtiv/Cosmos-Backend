@@ -14,6 +14,7 @@ let productSchema = new mongoose.Schema({
   galaxy: String,
   relation: [String],
   onSale: Boolean,
+  rating: Number
 })
 
 // Create our product model
