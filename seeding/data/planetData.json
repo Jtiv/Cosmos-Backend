@@ -1,9 +1,10 @@
-[{
+[
+  {
   "name": "Earth",
-  "image": "https://i.imgur.com/OyKDN9J.png",
+  "image": "https://i.imgur.com/a3d7G4K.png",
   "category": "real",
   "warrenty": false,
-  "price": 100000,
+  "price": 2,
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
@@ -11,10 +12,10 @@
 }, 
 {
   "name": "Vormir",
-  "image": "https://i.imgur.com/OyKDN9J.png",
+  "image": "https://i.imgur.com/VYA90B8.png",
   "category": "fictional",
   "warrenty": false,
-  "price": 100000,
+  "price": 121340,
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
@@ -22,10 +23,10 @@
 }, 
 {
   "name": "Nidavalir",
-  "image": "https://i.imgur.com/OyKDN9J.png",
+  "image": "https://i.imgur.com/D3Igo9Z.png",
   "category": "fictional",
   "warrenty": false,
-  "price": 100000,
+  "price": 283450,
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
@@ -33,24 +34,57 @@
 }, 
 {
   "name": "Asgard",
-  "image": "https://i.imgur.com/OyKDN9J.png",
+  "image": "https://i.imgur.com/L0yxMFR.png",
   "category": "fictional",
   "warrenty": false,
-  "price": 100000,
+  "price": 234579,
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
   "rating": 2
 }, 
 {
-  "name": "Saka'ar",
-  "image": "https://i.imgur.com/OyKDN9J.png",
+  "name": "Sakaar",
+  "image": "https://i.imgur.com/0bjoUv4.png",
   "category": "fictional",
   "warrenty": false,
   "price": 100000,
   "description": "this is a planet",
   "galaxy": "kag system",
   "onSale": true,
-  "rating": 5
+  "rating": 4
+},
+{
+  "name": "Nowhere",
+  "image": "https://i.imgur.com/BEpsAlq.png",
+  "category": "fictional",
+  "warrenty": false,
+  "price": 849457,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 3.5
+},
+{
+  "name": "Xandar",
+  "image": "https://i.imgur.com/LwPDBPE.png",
+  "category": "fictional",
+  "warrenty": false,
+  "price": 859367,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 3.5
+},
+{
+  "name": "Ego",
+  "image": "https://i.imgur.com/3OJ3Ii8.png",
+  "category": "living",
+  "warrenty": false,
+  "price": 888660,
+  "description": "this is a planet",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 1.5
 }
 ]
