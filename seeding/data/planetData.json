@@ -86,5 +86,16 @@
   "galaxy": "kag system",
   "onSale": true,
   "rating": 1.5
+},
+{
+  "name": "Ligma",
+  "image": "https://i.imgur.com/nX9IosN.png",
+  "category": "fictional",
+  "warrenty": true,
+  "price": 8008135,
+  "description": "ligma globesszz",
+  "galaxy": "kag system",
+  "onSale": true,
+  "rating": 5
 }
 ]
